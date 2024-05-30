@@ -1,0 +1,2 @@
+# MyNewPage
+Nothing specially
